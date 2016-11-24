@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/prova_artoolkit.unity
+  isLoaded: 1
+  isActive: 1

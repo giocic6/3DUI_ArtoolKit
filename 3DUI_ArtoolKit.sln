@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DUI_ArtoolKit.CSharp", "3DUI_ArtoolKit.CSharp.csproj", "{CAB6ADFE-093B-E077-3FDF-F51CE0DD5990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DUI_ArtoolKit.CSharp.Editor", "3DUI_ArtoolKit.CSharp.Editor.csproj", "{3DEC0776-FEBA-6BF4-E7B0-821893ABA114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB6ADFE-093B-E077-3FDF-F51CE0DD5990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB6ADFE-093B-E077-3FDF-F51CE0DD5990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB6ADFE-093B-E077-3FDF-F51CE0DD5990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB6ADFE-093B-E077-3FDF-F51CE0DD5990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEC0776-FEBA-6BF4-E7B0-821893ABA114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEC0776-FEBA-6BF4-E7B0-821893ABA114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEC0776-FEBA-6BF4-E7B0-821893ABA114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEC0776-FEBA-6BF4-E7B0-821893ABA114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

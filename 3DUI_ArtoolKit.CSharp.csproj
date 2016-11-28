@@ -83,6 +83,14 @@
     <Compile Include="Assets\ARToolKit5-Unity\Scripts\ARTransitionalCamera.cs" />
     <Compile Include="Assets\ARToolKit5-Unity\Scripts\ARUtilityFunctions.cs" />
     <Compile Include="Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs" />
+    <Compile Include="Assets\CustomScript\CustomPinch.cs" />
+    <Compile Include="Assets\CustomScript\JoyPad.cs" />
+    <Compile Include="Assets\CustomScript\RotationSlider.cs" />
+    <Compile Include="Assets\CustomScript\Selectable.cs" />
+    <Compile Include="Assets\CustomScript\VerticalSlider.cs" />
+    <Compile Include="Assets\ManagmentSceneScripts\GestureMgr.cs" />
+    <Compile Include="Assets\ManagmentSceneScripts\PointerMgr.cs" />
+    <Compile Include="Assets\ManagmentSceneScripts\SceneMgr.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ARToolKit5-Unity\CHANGELOG.txt" />
